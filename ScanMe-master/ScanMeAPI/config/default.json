@@ -1,0 +1,5 @@
+{
+	"mongoURI": "mongodb+srv://ayappa:ayappa@cluster0-yadjg.mongodb.net/test?retryWrites=true&w=majority",
+
+	"jewSecret": "secret"
+}
